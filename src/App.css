@@ -5,9 +5,9 @@
 }
 .images {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
   gap: 5px;
-  width: 620px;
+  width: 540px;
   margin: 200px auto;
   img {
     width: 100px;
